@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/aboutpage/</loc>
+    <loc>https://sonicriders.info/about/aboutpage/</loc>
     <lastmod>2026-01-04T21:05:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://sonicriders.info/about/</loc>
     <lastmod>2026-01-04T21:05:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sonicriders.info/</loc>
     <lastmod>2026-01-04T21:05:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sonicriders.info/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sonicriders.info/tags/</loc>
   </url>
 </urlset>

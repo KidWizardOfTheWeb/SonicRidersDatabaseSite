@@ -81,7 +81,7 @@ pagination.pagerSize = 7
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Reaper Co. Desk"
+    title = "Sonic Riders Database"
 
     [languages.en.params]
       subtitle = "My personal portfolio site & the home of Reaper Co. updates"
