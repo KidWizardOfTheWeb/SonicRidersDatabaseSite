@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sonic Riders Database</title>
-    <link>https://sonicriders.info/</link>
-    <description>Recent content on Sonic Riders Database</description>
+    <title>Gear on Sonic Riders Database</title>
+    <link>https://sonicriders.info/tags/gear/</link>
+    <description>Recent content in Gear on Sonic Riders Database</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 2026 21:05:41 -0500</lastBuildDate>
-    <atom:link href="https://sonicriders.info/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About the site</title>
-      <link>https://sonicriders.info/about/aboutpage/</link>
-      <pubDate>Sun, 04 Jan 2026 21:05:41 -0500</pubDate>
-      <guid>https://sonicriders.info/about/aboutpage/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This site serves as a informative resource for Sonic Riders Tournament Edition, a mod for the GameCube version of Sonic Riders (2006).&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;ll find in-depth information about the game&amp;rsquo;s mechanics, characters, gears, and more.&lt;/p&gt;&#xA;&lt;p&gt;Each post under a section can be filtered through by clicking on the &lt;code&gt;#&lt;/code&gt;s to find posts with the same ones attached to them.&lt;/p&gt;&#xA;&lt;p&gt;Hint: The text at the top that reads &lt;code&gt;Sonic Riders Database&lt;/code&gt; leads back to here (the homepage).&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://sonicriders.info/tags/gear/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Default Gear</title>
       <link>https://sonicriders.info/gears/defaultgear/</link>
