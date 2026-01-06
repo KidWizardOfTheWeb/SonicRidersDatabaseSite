@@ -40,7 +40,7 @@ Boost cost                |50       |75       |100
 Drift cost/sec            |9.96 air |15 air   |19.9 air
 Tornado cost              |25       |30       |40
 Trick air gain modifier   |-        |-        |-
-Shortcut air gain modifier|'        |"        |"
+Shortcut air gain modifier|-        |-        |-
 Passive fuel drain/sec    |9.6 air  |"        |"
 Weight modifier           |0.15     |"        |"
 
