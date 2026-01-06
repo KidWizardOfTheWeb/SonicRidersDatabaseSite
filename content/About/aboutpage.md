@@ -25,3 +25,10 @@ Hint: The text at the top that reads `Sonic Riders Database` leads back to here 
 ### Other links:
 
 GitHub: https://github.com/KidWizardOfTheWeb
+
+
+<!-- Test for video, remove this soon -->
+{{< video
+  src="/mp4/test.mp4"
+  width="400"
+>}}

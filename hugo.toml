@@ -15,6 +15,9 @@ pagination.pagerSize = 7
       endLevel = 4
       ordered = true
       startLevel = 2
+  [markup.goldmark.renderer]
+    # This is so we can embed videos, be careful with this
+    #unsafe = true
 
 [params]
   # dir name of your main content (default is `content/posts`).
