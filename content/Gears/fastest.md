@@ -29,6 +29,7 @@ Fuel type             |Air
 Special flags         |No speed loss while charging jump, immune to ice terrain, No boosting/No boost chain
 Mechanics             |Supercruise
 Frames to charge drift dash|50
+Archetype support     |Late Boosters/Combat characters gain -30%/-20% supercruise cost reduction respectively, Boost archetypes gain +5 supercruise speed.
 
 ## Statistics
 

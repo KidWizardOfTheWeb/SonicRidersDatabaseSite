@@ -1,17 +1,17 @@
 +++
-#date = '2026-01-06T20:59:11-05:00'
+#date = '2026-01-07T12:13:57-05:00'
 draft = false
-title = 'Grinder'
-cover = "/img/gears/grinder.png"
-tags = ["Gear", "Skates", "Air Gear", "Type Granting", "Drifting"]
+title = 'Magic Carpet'
+cover = "/img/gears/magiccarpet.png"
+tags = ["Gear", "Board", "Air Gear", "Cruising"]
 #keywords = ["", ""]
-description = "Grants speed type."
+description = "The prototype of all Extreme Gear."
 showFullContent = false
 readingTime = false
 hideComments = true
 +++
 
-## The dual type skate gear
+## A magical ride
 
 Placeholder
 
@@ -20,28 +20,28 @@ Placeholder
 Gear specific details | Special flags
 ----------------------|--------------
 Fuel type             |Air
-Special flags         |
-Mechanics             |Grants speed type, Monotype-Exclusive: +8.5% Speed from Speed Shortcuts
-Frames to charge drift dash|50
-Usage Restriction     |Only typed characters can use this
+Special flags         |Cruise Control, Legend Effect, Tornado Boost, Low Traction, Berserker Effect, No speed loss while turning
+Mechanics             |
+Frames to charge drift dash|70
+
 ## Statistics
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------
-Top Speed                 |162      |175      |188 
-Boost Speed               |200      |230      |250
+*Top Speed*               |162      |175      |188 
+Boost Speed               |195      |225      |245
 Drift dash Speed          |+50      |+80      |+100
-Drift dash speed cap      |265      |275      |285
-Acceleration (speed/sec)  |0        |"        |"
+Drift dash speed cap      |260      |270      |280
+Acceleration (speed/sec)  |-5       |"        |"
 Deceleration              |-        |-        |-
 Boost Chain Multiplier    |-        |-        |-
-Boost cost                |25       |30       |40
+Boost cost                |28       |33       |43
 Drift cost/sec            |9.96 air |15 air   |19.9 air
 Tornado cost              |25       |30       |40
 Trick air gain modifier   |-        |-        |-
 Shortcut air gain modifier|-        |-        |-
 Passive fuel drain/sec    |9.6 air  |"        |"
-Weight modifier           |-0.3     |"        |"
+Weight modifier           |-0.45    |"        |"
 
 
 ## Footage/Tournament footage

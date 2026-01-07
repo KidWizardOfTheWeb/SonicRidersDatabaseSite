@@ -1,17 +1,17 @@
 +++
-#date = '2026-01-06T21:28:37-05:00'
+#date = '2026-01-07T12:54:47-05:00'
 draft = false
-title = 'Access'
-cover = "/img/gears/access.png"
-tags = ["Gear", "Board", "Air Gear", "Type Granting", "Cruising"]
+title = 'Speed Balancer'
+cover = "/img/gears/speedbalancer.png"
+tags = ["Gear", "Board", "Air Gear", "Standard"]
 #keywords = ["", ""]
-description = "Grants fly type."
+description = "Collide with your surroundings."
 showFullContent = false
 readingTime = false
 hideComments = true
 +++
 
-## The dual type board gear
+## Its like a pinball
 
 Placeholder
 
@@ -21,28 +21,27 @@ Gear specific details | Special flags
 ----------------------|--------------
 Fuel type             |Air
 Special flags         |
-Mechanics             |Grants fly type, Monotype-Exclusive: +8.5% Speed from Fly Shortcuts
+Mechanics             |Poor turning on the ground/regular turning while drifting, Pinball Power
 Frames to charge drift dash|50
-Usage Restriction     |Only typed characters can use this
 
 ## Statistics
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------
-Top Speed                 |175      |188      |201 
-Boost Speed               |200      |230      |250
+Top Speed                 |200      |213      |226 
+Boost Speed               |202      |232      |252
 Drift dash Speed          |+50      |+80      |+100
 Drift dash speed cap      |250      |260      |270
-Acceleration (speed/sec)  |+5.003   |"        |"
+Acceleration (speed/sec)  |+10      |"        |"
 Deceleration              |-        |-        |-
 Boost Chain Multiplier    |-        |-        |-
 Boost cost                |25       |30       |40
-Drift cost/sec            |9.96 air |15 air   |19.9 air
-Tornado cost              |25       |30       |40
+Drift cost/sec            |10.5 air |15.54 air|20.34 air
+Tornado cost              |35       |45       |60
 Trick air gain modifier   |-        |-        |-
 Shortcut air gain modifier|-        |-        |-
-Passive fuel drain/sec    |9.6 air  |"        |"
-Weight modifier           |0.2      |"        |"
+Passive fuel drain/sec    |9.6 air  |-        |-
+Weight modifier           |0.1      |"        |"
 
 
 ## Footage/Tournament footage

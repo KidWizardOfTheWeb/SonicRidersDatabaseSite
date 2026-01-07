@@ -1,46 +1,47 @@
 +++
-#date = '2026-01-05T23:35:14-05:00'
+#date = '2026-01-07T11:32:19-05:00'
 draft = false
-title = 'High Booster'
-cover = "/img/gears/highbooster.png"
-tags = ["Gear", "Board", "Air Gear", "High Boosting"]
+title = 'Lightboard'
+cover = "/img/gears/lightboard.png"
+tags = ["Gear", "Board", "Air Gear", "Cruising"]
 #keywords = ["", ""]
-description = "Extreme speeds, at a cost."
+description = "The lightest gear in existence."
 showFullContent = false
 readingTime = false
 hideComments = true
 +++
 
-## The pioneer of High Boosting gears
+## Cruise at your heart's content
 
-Placeholder.
+Placeholder
+
+Placeholder
 
 Gear specific details | Special flags
 ----------------------|--------------
 Fuel type             |Air
-Special flags         |Airy Fingers
+Special flags         |Cruise Control
 Mechanics             |
 Frames to charge drift dash|60
-
 
 ## Statistics
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------
-Top Speed                 |157      |170      |183 
-Boost Speed               |235      |265      |285
-Drift dash Speed          |+100     |+130     |+150
+*Top Speed*               |145      |158      |163 
+Boost Speed               |195      |225      |245
+Drift dash Speed          |+50      |+80      |+100
 Drift dash speed cap      |250      |260      |270
-Acceleration (speed/sec)  |-5       |"        |"
-Deceleration              |-        |-        |-
+Acceleration (speed/sec)  |0        |"        |"
+Deceleration              |-5%      |"        |"
 Boost Chain Multiplier    |-        |-        |-
-Boost cost                |50       |75       |100
+Boost cost                |35       |35       |55
 Drift cost/sec            |9.96 air |15 air   |19.9 air
-Tornado cost              |25       |30       |40
+Tornado cost              |35       |45       |60
 Trick air gain modifier   |-        |-        |-
 Shortcut air gain modifier|-        |-        |-
 Passive fuel drain/sec    |9.6 air  |"        |"
-Weight modifier           |0.15     |"        |"
+Weight modifier           |-0.5     |"        |"
 
 
 ## Footage/Tournament footage

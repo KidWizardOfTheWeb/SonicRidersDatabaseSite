@@ -4,7 +4,7 @@
 draft = false
 title = 'Default Gear'
 cover = "/img/gears/bluestar.png"
-tags = ["Gear", "Board", "Bike", "Air Gear", "Standard"]
+tags = ["Gear", "Board", "Bike", "Skates", "Air Gear", "Standard"]
 #keywords = ["", ""]
 description = "General/All-Round gear for all skill levels."
 showFullContent = false

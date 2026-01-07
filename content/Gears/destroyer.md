@@ -11,7 +11,7 @@ readingTime = false
 hideComments = true
 +++
 
-## The dual type bike gear.
+## The dual type bike gear
 
 Placeholder
 
@@ -23,6 +23,7 @@ Fuel type             |Air
 Special flags         |
 Mechanics             |Grants power type, Monotype-Exclusive: +8.5% Speed from Power Shortcuts
 Frames to charge drift dash|60
+Usage Restriction     |Only typed characters can use this
 
 ## Statistics
 
@@ -40,7 +41,7 @@ Drift cost/sec            |9.96 air |15 air   |19.9 air
 Tornado cost              |25       |30       |40
 Trick air gain modifier   |-        |-        |-
 Shortcut air gain modifier|-        |-        |-
-Passive fuel drain/sec    |12  air  |"        |"
+Passive fuel drain/sec    |12 air   |"        |"
 Weight modifier           |0.45     |"        |"
 
 
