@@ -27,6 +27,6 @@ Hint: The text at the top that reads `Sonic Riders Database` leads back to here 
 GitHub: https://github.com/KidWizardOfTheWeb
 
 ### Credits:
-Kid Chameleon/Ekirugi - Lead Maintainer of sonicriders.info
-1tzFresh - Contributor
-Jordo - Contributor
+- **Kid Chameleon/Ekirugi** - Lead Maintainer of sonicriders.info
+- **1tzFresh** - Contributor
+- **Jordo** - Contributor
