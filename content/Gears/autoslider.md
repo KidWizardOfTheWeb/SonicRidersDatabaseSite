@@ -2,8 +2,8 @@
 #date = '2026-01-06T05:33:30-05:00'
 draft = false
 title = 'Auto Slider'
-cover = "/img/autoslider.png"
-tags = ["Gear", "Drifting"]
+cover = "/img/gears/autoslider.png"
+tags = ["Gear", "Board", "Air Gear", "Drifting"]
 #keywords = ["", ""]
 description = "Nimble Drifting gear."
 showFullContent = false

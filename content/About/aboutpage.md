@@ -26,9 +26,7 @@ Hint: The text at the top that reads `Sonic Riders Database` leads back to here 
 
 GitHub: https://github.com/KidWizardOfTheWeb
 
-
-<!-- Test for video, remove this soon -->
-{{< video
-  src="/mp4/test.mp4"
-  width="400"
->}}
+### Credits:
+Kid Chameleon/Ekirugi - Lead Maintainer of sonicriders.info
+1tzFresh - Contributor
+Jordo - Contributor

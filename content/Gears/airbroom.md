@@ -2,8 +2,8 @@
 #date = '2026-01-06T07:56:03-05:00'
 draft = false
 title = 'Air Broom'
-cover = "/img/airbroom.png"
-tags = ["Gear", "Combat"]
+cover = "/img/gears/airbroom.png"
+tags = ["Gear", "Board", "Air Gear", "Combat"]
 #keywords = ["", ""]
 description = "The tornado specialist gear."
 showFullContent = false

@@ -2,7 +2,7 @@ baseURL = 'https://sonicriders.info/'
 languageCode = 'en-us'
 title = 'Sonic Riders Database'
 "theme" = 'terminal' 
-pagination.pagerSize = 7
+pagination.pagerSize = 10
 
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
@@ -87,15 +87,15 @@ pagination.pagerSize = 7
     title = "Sonic Riders Database"
 
     [languages.en.params]
-      subtitle = "My personal portfolio site & the home of Reaper Co. updates"
+      subtitle = "Central database of information for SRTE"
       owner = ""
       keywords = ""
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
+      newerPosts = "Previous page"
+      olderPosts = "Next page"
       missingContentMessage = "Page not found..."
       missingBackButtonLabel = "Back to home page"
       minuteReadingTime = "min read"

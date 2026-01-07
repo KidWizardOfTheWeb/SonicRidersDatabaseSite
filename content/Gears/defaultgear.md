@@ -3,8 +3,8 @@
 #author = 'KC'
 draft = false
 title = 'Default Gear'
-cover = "/img/bluestar.png"
-tags = ["Gear", "Standard"]
+cover = "/img/gears/bluestar.png"
+tags = ["Gear", "Board", "Bike", "Air Gear", "Standard"]
 #keywords = ["", ""]
 description = "General/All-Round gear for all skill levels."
 showFullContent = false

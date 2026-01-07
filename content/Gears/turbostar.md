@@ -2,8 +2,8 @@
 #date = '2026-01-06T07:32:42-05:00'
 draft = false
 title = 'Turbo Star'
-cover = "/img/turbostar.png"
-tags = ["Gear", "Standard"]
+cover = "/img/gears/turbostar.png"
+tags = ["Gear", "Board", "Air Gear", "Standard"]
 #keywords = ["", ""]
 description = "The perfect late game gear."
 showFullContent = false

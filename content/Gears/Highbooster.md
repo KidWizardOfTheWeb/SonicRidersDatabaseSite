@@ -2,8 +2,8 @@
 #date = '2026-01-05T23:35:14-05:00'
 draft = false
 title = 'High Booster'
-cover = "/img/highbooster.png"
-tags = ["Gear", "High Boosting"]
+cover = "/img/gears/highbooster.png"
+tags = ["Gear", "Board", "Air Gear", "High Boosting"]
 #keywords = ["", ""]
 description = "Extreme speeds, at a cost."
 showFullContent = false
@@ -13,9 +13,7 @@ hideComments = true
 
 ## The pioneer of High Boosting gears
 
-i luv highbooster
-
-i hate highbooster
+Placeholder.
 
 Gear specific details | Special flags
 ----------------------|--------------

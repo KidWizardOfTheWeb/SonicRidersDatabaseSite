@@ -2,8 +2,8 @@
 #date = '2026-01-06T06:50:04-05:00'
 draft = false
 title = 'Fastest'
-cover = "/img/fastest.png"
-tags = ["Gear", "Cruising"]
+cover = "/img/gears/fastest.png"
+tags = ["Gear", "Board", "Air Gear", "Cruising"]
 #keywords = ["", ""]
 description = "The pinnacle of cruising gears."
 showFullContent = false
@@ -11,7 +11,7 @@ readingTime = false
 hideComments = true
 +++
 
-## Cruising perfected
+## Cruising, perfected
 
 Placeholder
 

@@ -2,7 +2,7 @@
 #date = '2026-01-06T18:11:21-05:00'
 draft = false
 title = 'Hang-On'
-cover = "/img/hangon.png"
+cover = "/img/gears/hangon.png"
 tags = ["Gear", "Bike", "Ring Gear", "Variable Boosting"]
 #keywords = ["", ""]
 description = "Let's go away."
