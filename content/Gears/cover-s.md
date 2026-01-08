@@ -1,7 +1,7 @@
 +++
 #date = '2026-01-07T09:53:35-05:00'
 draft = false
-title = 'Cover S'
+title = 'Cover-S'
 cover = "/img/gears/cover-s.png"
 tags = ["Gear", "Bike", "Air Gear", "Level Locked"]
 #keywords = ["", ""]

@@ -4,7 +4,7 @@ draft = false
 title = 'Sonic The Hedgehog'
 cover = "/img/chr/sonic.png"
 tags = ["Character", "Speed Type", "Late Booster", "Midweight", "AoE", "Trample"]
-description = "Intergalactic continental champ running things."
+description = "The blue blur."
 showFullContent = false
 +++
 
@@ -17,6 +17,7 @@ Archetype                 |Late Booster
 Usage restrictions        |None
 Gear restrictions         |None
 Level 3 attack type       |Trample (25 stun frames)
+Weight                    |1.1
 
 ## Stats
 

@@ -33,19 +33,80 @@ Archetype support     |Late Boosters/Combat characters gain -30%/-20% supercruis
 
 ## Stats
 
-Gear stats                | Level 1 | Level 2 | Level 3
---------------------------|---------|---------|--------
-Top Speed                 |210      |223      |236
-Boost Speed               |240      |250      |260
-Drift dash Speed          |+50      |+80      |+100
-Drift dash speed cap      |260      |270      |280
-Acceleration (speed/sec)  |+38.88   |"        |"
-Deceleration              |-        |-        |-
-Boost Chain Multiplier    |-        |-        |-
-Boost cost                |300 air/sec |"            |"
-Drift cost/sec            |12.96 air |18 air  |22.98 air
-Tornado cost              |25       |30       |40
-Trick air gain modifier   |-        |-        |-
-Shortcut air gain modifier|+15%     |"        |"
-Passive fuel drain/sec    |21 air  |"        |"
-Weight modifier           |-0.05    |"        |"
+<table><thead>
+  <tr>
+    <th>Gear stats</th>
+    <th>Level 1</th>
+    <th>Level 2</th>
+    <th>Level 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Top Speed</td>
+    <td>210</td>
+    <td>223</td>
+    <td>236</td>
+  </tr>
+  <tr>
+    <td>Boost Speed</td>
+    <td>240</td>
+    <td>250</td>
+    <td>260</td>
+  </tr>
+  <tr>
+    <td>Drift dash Speed</td>
+    <td>+50</td>
+    <td>+80</td>
+    <td>+100</td>
+  </tr>
+  <tr>
+    <td>Drift dash speed cap</td>
+    <td>260</td>
+    <td>270</td>
+    <td>280</td>
+  </tr>
+  <tr>
+    <td>Acceleration (speed/sec)</td>
+    <td colspan="3">+38.88</td>
+  </tr>
+  <tr>
+    <td>Deceleration</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost Chain Multiplier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost cost</td>
+    <td colspan="3">300 air/sec</td>
+  </tr>
+  <tr>
+    <td>Drift cost/sec</td>
+    <td>12.96 air</td>
+    <td>18 air</td>
+    <td>22.98 air</td>
+  </tr>
+  <tr>
+    <td>Tornado cost</td>
+    <td>25</td>
+    <td>30</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Trick air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Shortcut air gain modifier</td>
+    <td colspan="3">+15%</td>
+  </tr>
+  <tr>
+    <td>Passive fuel drain/sec</td>
+    <td colspan="3">21 air</td>
+  </tr>
+  <tr>
+    <td>Weight modifier</td>
+    <td colspan="3">-0.05</td>
+  </tr>
+</tbody></table>

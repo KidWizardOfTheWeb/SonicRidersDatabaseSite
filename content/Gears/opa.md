@@ -3,9 +3,9 @@
 draft = false
 title = 'Opa Opa'
 cover = "/img/gears/opa.png"
-tags = ["Gear", "Board", "Air Gear", "Combat", "Cruising"]
+tags = ["Gear", "Board", "Air Gear", "Combat Gear", "Cruising"]
 #keywords = ["", ""]
-description = "Deveasting attack potential."
+description = "Devastating attack potential."
 showFullContent = false
 readingTime = false
 hideComments = true
@@ -26,22 +26,85 @@ Frames to charge drift dash|60
 
 ## Stats
 
-Gear stats                | Level 1 | Level 2 | Level 3
---------------------------|---------|---------|--------
-Top Speed                 |200      |213      |226 
-Boost Speed               |220      |250      |260
-Drift dash Speed          |+50      |+80      |+100
-Drift dash speed cap      |250      |260      |270
-Acceleration (speed/sec)  |0        |"        |"
-Deceleration              |-        |-        |-
-Boost Chain Multiplier    |-        |-        |-
-Boost cost                |35       |50       |60
-Drift cost/sec            |6.96 air |12 air   |16.9 air
-Tornado cost              |35       |45       |60
-Trick air gain modifier   |-        |-        |-
-Shortcut air gain modifier|-        |-        |-
-Passive fuel drain/sec    |9.6 air  |-        |-
-Weight modifier           |-0.25    |"        |"
+<table><thead>
+  <tr>
+    <th>Gear stats</th>
+    <th>Level 1</th>
+    <th>Level 2</th>
+    <th>Level 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Top Speed</td>
+    <td>200</td>
+    <td>213</td>
+    <td>226</td>
+  </tr>
+  <tr>
+    <td>Boost Speed</td>
+    <td>220</td>
+    <td>250</td>
+    <td>260</td>
+  </tr>
+  <tr>
+    <td>Drift dash Speed</td>
+    <td>+50</td>
+    <td>+80</td>
+    <td>+100</td>
+  </tr>
+  <tr>
+    <td>Drift dash speed cap</td>
+    <td>250</td>
+    <td>260</td>
+    <td>270</td>
+  </tr>
+  <tr>
+    <td>Acceleration (speed/sec)</td>
+    <td colspan="3">0</td>
+  </tr>
+  <tr>
+    <td>Deceleration</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost Chain Multiplier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost cost</td>
+    <td>35</td>
+    <td>50</td>
+    <td>60</td>
+  </tr>
+  <tr>
+    <td>Drift cost/sec</td>
+    <td>6.96 air</td>
+    <td>12 air</td>
+    <td>16.9 air</td>
+  </tr>
+  <tr>
+    <td>Tornado cost</td>
+    <td>35</td>
+    <td>45</td>
+    <td>60</td>
+  </tr>
+  <tr>
+    <td>Trick air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Shortcut air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Passive fuel drain/sec</td>
+    <td colspan="3">9.6 air</td>
+  </tr>
+  <tr>
+    <td>Weight modifier</td>
+    <td colspan="3">-0.25</td>
+  </tr>
+</tbody></table>
 
 
 ## Footage/Tournament footage

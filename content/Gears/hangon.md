@@ -62,19 +62,84 @@ Your ring costs for boosts, etc remain accordant to the numeric value of your cu
 
 ## Stats
 
-Gear stats                | Level 1 | Level 2 | Level 3 
---------------------------|---------|---------|--------
-Top Speed                 |185      |215      |235 
-Boost Speed               |230      |250      |265
-Drift dash Speed          |+50     |+80     |+100
-Drift dash speed cap      |260      |270      |280
-Acceleration (speed/sec)  |-       |-        |-
-Deceleration              |-        |-        |-
-Boost Chain Multiplier    |-        |-        |-
-Boost cost                |5 rings       |10 rings       |15 rings
-Drift cost/sec            |0.25 rings |0.3 rings   |0.5 rings
-Tornado cost              |25       |30       |40
-Trick air gain modifier   |-        |-        |-
-Shortcut air gain modifier|-        |-        |-
-Passive fuel drain/sec    |0.45 rings  |0.981 rings        |3.763 rings
-Weight modifier           |0.4     |"        |"
+<table><thead>
+  <tr>
+    <th>Gear stats</th>
+    <th>Level 1</th>
+    <th>Level 2</th>
+    <th>Level 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Top Speed</td>
+    <td>185</td>
+    <td>215</td>
+    <td>235</td>
+  </tr>
+  <tr>
+    <td>Boost Speed</td>
+    <td>230</td>
+    <td>250</td>
+    <td>265</td>
+  </tr>
+  <tr>
+    <td>Drift dash Speed</td>
+    <td>+50</td>
+    <td>+80</td>
+    <td>+100</td>
+  </tr>
+  <tr>
+    <td>Drift dash speed cap</td>
+    <td>260</td>
+    <td>270</td>
+    <td>280</td>
+  </tr>
+  <tr>
+    <td>Acceleration (speed/sec)</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Deceleration</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost Chain Multiplier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost cost</td>
+    <td>5 rings</td>
+    <td>10 rings</td>
+    <td>15 rings</td>
+  </tr>
+  <tr>
+    <td>Drift cost/sec</td>
+    <td>0.25 rings</td>
+    <td>0.3 rings</td>
+    <td>0.5 rings</td>
+  </tr>
+  <tr>
+    <td>Tornado cost</td>
+    <td>25</td>
+    <td>30</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Trick air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Shortcut air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Passive fuel drain/sec</td>
+    <td>0.45 rings</td>
+    <td>0.981 rings</td>
+    <td>3.763 rings</td>
+  </tr>
+  <tr>
+    <td>Weight modifier</td>
+    <td colspan="3">0.4</td>
+  </tr>
+</tbody></table>
