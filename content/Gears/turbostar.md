@@ -26,22 +26,87 @@ Frames to charge drift dash|60
 
 ## Stats
 
-Gear stats                | Level 1 | Level 2 | Level 3 | Level 4
---------------------------|---------|---------|---------|--------
-Top Speed                 |177      |190      |203      |"
-Boost Speed               |195      |225      |245      |260
-Drift dash Speed          |+50      |+80      |+100     |"
-Drift dash speed cap      |250      |260      |270      |280
-Acceleration (speed/sec)  |+9.93    |"        |"        |"
-Deceleration              |-        |-        |-        |-
-Boost Chain Multiplier    |-        |-        |-        |-
-Boost cost                |25       |30       |40       |"
-Drift cost/sec            |9.96 air |15 air   |19.9 air |"
-Tornado cost              |25       |30       |40       |"
-Trick air gain modifier   |-        |-        |-        |-
-Shortcut air gain modifier|-        |-        |-        |-
-Passive fuel drain/sec    |9.6 air  |"        |"        |"
-Weight modifier           |0.2      |"        |"        |
-
+<table><thead>
+  <tr>
+    <th>Gear stats</th>
+    <th>Level 1</th>
+    <th>Level 2</th>
+    <th>Level 3</th>
+    <th>Level 4</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Top Speed</td>
+    <td>177</td>
+    <td>190</td>
+    <td colspan="2">203</td>
+  </tr>
+  <tr>
+    <td>Boost Speed</td>
+    <td>195</td>
+    <td>225</td>
+    <td>245</td>
+    <td>260</td>
+  </tr>
+  <tr>
+    <td>Drift dash Speed</td>
+    <td>+50</td>
+    <td>+80</td>
+    <td colspan="2">+100</td>
+  </tr>
+  <tr>
+    <td>Drift dash speed cap</td>
+    <td>250</td>
+    <td>260</td>
+    <td>270</td>
+    <td>280</td>
+  </tr>
+  <tr>
+    <td>Acceleration (speed/sec)</td>
+    <td colspan="4">+9.93</td>
+  </tr>
+  <tr>
+    <td>Deceleration</td>
+    <td colspan="4">-</td>
+  </tr>
+  <tr>
+    <td>Boost Chain Multiplier</td>
+    <td colspan="4">-</td>
+  </tr>
+  <tr>
+    <td>Boost cost</td>
+    <td>25</td>
+    <td>30</td>
+    <td colspan="2">40</td>
+  </tr>
+  <tr>
+    <td>Drift cost/sec</td>
+    <td>9.96 air</td>
+    <td>15 air</td>
+    <td colspan="2">19.9 air</td>
+  </tr>
+  <tr>
+    <td>Tornado cost</td>
+    <td>25</td>
+    <td>30</td>
+    <td colspan="2">40</td>
+  </tr>
+  <tr>
+    <td>Trick air gain modifier</td>
+    <td colspan="4">-</td>
+  </tr>
+  <tr>
+    <td>Shortcut air gain modifier</td>
+    <td colspan="4">-</td>
+  </tr>
+  <tr>
+    <td>Passive fuel drain/sec</td>
+    <td colspan="4">9.6 air</td>
+  </tr>
+  <tr>
+    <td>Weight modifier</td>
+    <td colspan="4">0.2</td>
+  </tr>
+</tbody></table>
 
 ## Footage/Tournament footage

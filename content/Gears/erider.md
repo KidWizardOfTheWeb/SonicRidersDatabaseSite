@@ -22,22 +22,84 @@ Frames to charge drift dash|60
 
 ## Stats
 
-Gear stats                | Level 1 | Level 2 | Level 3
---------------------------|---------|---------|--------
-Top Speed                 |200      |213      |226 
-Boost Speed               |205      |235      |255
-Drift dash Speed          |+50      |+80      |+100
-Drift dash speed cap      |250      |260      |270
-Acceleration (speed/sec)  |+5       |"        |"
-Deceleration              |-        |-        |-
-Boost Chain Multiplier    |-        |-        |-
-Boost cost                |40       |60       |80
-Drift cost/sec            |10.86 air |15.9 air |20.88 air
-Tornado cost              |25       |30       |40
-Trick air gain modifier   |-        |-        |-
-Shortcut air gain modifier|-        |-        |-
-Passive fuel drain/sec    |12 air   |"        |"
-Weight modifier           |0.45     |"        |"
-
+<table><thead>
+  <tr>
+    <th>Gear stats</th>
+    <th>Level 1</th>
+    <th>Level 2</th>
+    <th>Level 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Top Speed</td>
+    <td>200</td>
+    <td>213</td>
+    <td>226</td>
+  </tr>
+  <tr>
+    <td>Boost Speed</td>
+    <td>205</td>
+    <td>235</td>
+    <td>255</td>
+  </tr>
+  <tr>
+    <td>Drift dash Speed</td>
+    <td>+50</td>
+    <td>+80</td>
+    <td>+100</td>
+  </tr>
+  <tr>
+    <td>Drift dash speed cap</td>
+    <td>250</td>
+    <td>260</td>
+    <td>270</td>
+  </tr>
+  <tr>
+    <td>Acceleration (speed/sec)</td>
+    <td colspan="3">+5</td>
+  </tr>
+  <tr>
+    <td>Deceleration</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost Chain Multiplier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost cost</td>
+    <td>40</td>
+    <td>60</td>
+    <td>80</td>
+  </tr>
+  <tr>
+    <td>Drift cost/sec</td>
+    <td>10.86 air</td>
+    <td>15.9 air</td>
+    <td>20.88 air</td>
+  </tr>
+  <tr>
+    <td>Tornado cost</td>
+    <td>25</td>
+    <td>30</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Trick air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Shortcut air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Passive fuel drain/sec</td>
+    <td colspan="3">12 air</td>
+  </tr>
+  <tr>
+    <td>Weight modifier</td>
+    <td colspan="3">0.45</td>
+  </tr>
+</tbody></table>
 
 ## Footage/Tournament footage
