@@ -38,7 +38,7 @@ Mechanics             |None
 Frames to charge drift dash|60
 
 
-## Statistics
+## Stats
 <!-- To generate this table,
 https://www.tablesgenerator.com/html_tables#
 Make sure to not generate css (turn that toggle on) -->

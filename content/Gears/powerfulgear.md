@@ -24,7 +24,7 @@ Special flags         |No speed loss offroad, No speed loss while turning, No sp
 Mechanics             |Gains 1/4th of the speed you would've lost while traveling uphill as bonus speed
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

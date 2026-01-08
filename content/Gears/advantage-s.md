@@ -24,7 +24,7 @@ Special flags         |
 Mechanics             |Always in run state, Can charge jump and drift while running, Boost control
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

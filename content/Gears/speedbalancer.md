@@ -24,7 +24,7 @@ Special flags         |
 Mechanics             |Poor turning on the ground/regular turning while drifting, Pinball Power
 Frames to charge drift dash|50
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

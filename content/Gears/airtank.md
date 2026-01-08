@@ -24,7 +24,7 @@ Special flags         |
 Mechanics             |Air Crisis
 Frames to charge drift dash|45-60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

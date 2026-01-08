@@ -24,7 +24,7 @@ Special flags         |Tornado Boost
 Mechanics             |Cannot boost
 Frames to charge drift dash|50
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

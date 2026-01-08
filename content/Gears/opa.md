@@ -24,7 +24,7 @@ Special flags         |No speed loss while charging jump
 Mechanics             |Powerful Attack: 210 stun frames, Boost Control, halved boost duration
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

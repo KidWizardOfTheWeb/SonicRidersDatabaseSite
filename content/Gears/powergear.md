@@ -20,7 +20,7 @@ Special flags         |No speed loss on wall bonk, no speed loss offroad
 Mechanics             |Power Slide, cannot drift dash, Boost Control
 Archetype Support     |Drift archetypes get an extra -5% drift cost modifier
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

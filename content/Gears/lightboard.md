@@ -24,7 +24,7 @@ Special flags         |Cruise Control
 Mechanics             |
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

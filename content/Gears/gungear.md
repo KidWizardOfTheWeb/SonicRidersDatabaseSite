@@ -22,7 +22,7 @@ Special flags         |Airy Fingers, Tornado Boost
 Mechanics             |Locked to level 2, Ring Boost, Terminal Velocity
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 2 |
 --------------------------|---------|

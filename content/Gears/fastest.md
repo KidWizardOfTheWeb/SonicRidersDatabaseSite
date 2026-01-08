@@ -31,7 +31,7 @@ Mechanics             |Supercruise
 Frames to charge drift dash|50
 Archetype support     |Late Boosters/Combat characters gain -30%/-20% supercruise cost reduction respectively, Boost archetypes gain +5 supercruise speed.
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

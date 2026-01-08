@@ -22,7 +22,7 @@ Special flags         |
 Mechanics             |Locked to level 2, Mode Switching
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Standard | High Boosting | Cruising | Combat
 --------------------------|----------|---------------|----------|--------

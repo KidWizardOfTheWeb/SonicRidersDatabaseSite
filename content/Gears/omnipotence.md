@@ -23,7 +23,7 @@ Mechanics             |Type Chaining, +10 dash panel speed
 Frames to charge drift dash|60
 Usage Restriction     |Only typed characters can use this
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

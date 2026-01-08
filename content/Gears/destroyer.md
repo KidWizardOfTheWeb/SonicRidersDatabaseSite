@@ -25,7 +25,7 @@ Mechanics             |Grants power type, Monotype-Exclusive: +8.5% Speed from P
 Frames to charge drift dash|60
 Usage Restriction     |Only typed characters can use this
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

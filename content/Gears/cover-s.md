@@ -23,7 +23,7 @@ Mechanics             |Locked to level 2, Type Switching, 125 ring cap, +10 dash
 Frames to charge drift dash|60
 Usage Restriction     |Only typed characters can use this
 
-## Statistics
+## Stats
 
 Gear stats                | Level 2
 --------------------------|---------|

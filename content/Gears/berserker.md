@@ -24,7 +24,7 @@ Special flags         |Berserker effect, No speed loss while turning
 Mechanics             |Power dance, Increased attack range at level 3
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

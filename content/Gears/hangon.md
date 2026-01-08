@@ -59,7 +59,8 @@ When you shift up, you will consume more rings, but your ring cap will also incr
 This may not be apparent until you shift levels, if you were to have 50 rings in level 3, shifting down to level 1 would give you 100 rings.  
 This also applies to ring boxes. A common strategy is to collect 30 ring boxes exclsuively in level 3, which gives your level 1 ring count 60 apparent rings.  
 Your ring costs for boosts, etc remain accordant to the numeric value of your current level.   
-## Statistics
+
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3 
 --------------------------|---------|---------|--------

@@ -24,7 +24,7 @@ Special flags         |Immune to ice terrain
 Mechanics             |-15% air gain on tricks and type shortcuts
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

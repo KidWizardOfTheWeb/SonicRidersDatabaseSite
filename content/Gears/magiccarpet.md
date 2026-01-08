@@ -24,7 +24,7 @@ Special flags         |Cruise Control, Legend Effect, Tornado Boost, Low Tractio
 Mechanics             |
 Frames to charge drift dash|70
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

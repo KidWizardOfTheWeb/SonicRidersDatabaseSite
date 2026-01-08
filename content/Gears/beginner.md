@@ -24,7 +24,7 @@ Special flags         |
 Mechanics             |Drift Overcharge, cannot air out, dynamic boost based off air tank
 Frames to charge drift dash|30
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

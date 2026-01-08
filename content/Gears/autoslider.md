@@ -24,8 +24,7 @@ Special flags         |
 Mechanics             |
 Frames to charge drift dash|40
 
-
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

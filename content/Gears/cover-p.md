@@ -22,8 +22,7 @@ Special flags         |Sticky Fingers
 Mechanics             |Locked to level 2, Weight Switching, Money Crisis, 200 ring cap, double ring pickup
 Frames to charge drift dash|50
 
-
-## Statistics
+## Stats
 
 Gear stats                | Level 2
 --------------------------|---------|

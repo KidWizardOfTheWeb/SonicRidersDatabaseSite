@@ -24,7 +24,7 @@ Special flags         |Tornado Boost
 Mechanics             |Gains Recipro Extend from Tornados
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3
 --------------------------|---------|---------|--------

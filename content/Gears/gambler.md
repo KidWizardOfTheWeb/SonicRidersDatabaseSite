@@ -24,7 +24,7 @@ Special flags         |Trick Payout, Trick of Greed, Sticky Fingers
 Mechanics             |Level 4, 150 ring cap, all boxes are random
 Frames to charge drift dash|60
 
-## Statistics
+## Stats
 
 Gear stats                | Level 1 | Level 2 | Level 3 | Level 4
 --------------------------|---------|---------|---------|--------
