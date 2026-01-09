@@ -1,0 +1,116 @@
++++
+#date = '2026-01-06T21:33:52-05:00'
+draft = false
+title = 'Destroyer'
+cover = "/img/gears/destroyer.png"
+tags = ["Gear", "Bike", "Air Gear", "Type Granting", "High Boosting"]
+#keywords = ["", ""]
+description = "Grants power type."
+showFullContent = false
+readingTime = false
+hideComments = true
++++
+
+## The dual type bike gear
+
+Break through the compeition with Destroyer! Forgo some top speed and increase your weight in order to gain the power type in addition to your character's base type.
+Picking Destroyer on a character who is already power type will gain extra speed from power type objects.  
+
+
+Gear specific details | Special flags
+----------------------|--------------
+Fuel type             |Air
+Special flags         |
+Mechanics             |Grants power type, Monotype-Exclusive: +8.5% Speed from Power Shortcuts
+Frames to charge drift dash|60
+Usage Restriction     |Only typed characters can use this
+
+
+Destroyer is suited for high boosting, having a higher than normal boost speed, with lower top speed and heavier weight. Use this in conjunction with the air gained from power objects to blow past your competition.  
+
+Pick Destroyer on stages where you want to take advantage of the routes presented by power paths; or to mix up your opponents with high speed and air economy.  
+
+## Stats
+
+<table><thead>
+  <tr>
+    <th>Gear stats</th>
+    <th>Level 1</th>
+    <th>Level 2</th>
+    <th>Level 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Top Speed</td>
+    <td>167</td>
+    <td>180</td>
+    <td>193</td>
+  </tr>
+  <tr>
+    <td>Boost Speed</td>
+    <td>202</td>
+    <td>232</td>
+    <td>252</td>
+  </tr>
+  <tr>
+    <td>Drift dash Speed</td>
+    <td>+50</td>
+    <td>+80</td>
+    <td>+100</td>
+  </tr>
+  <tr>
+    <td>Drift dash speed cap</td>
+    <td>250</td>
+    <td>260</td>
+    <td>270</td>
+  </tr>
+  <tr>
+    <td>Acceleration (speed/sec)</td>
+    <td colspan="3">0</td>
+  </tr>
+  <tr>
+    <td>Deceleration</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost Chain Multiplier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Boost cost</td>
+    <td>25</td>
+    <td>30</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Drift cost/sec</td>
+    <td>9.96 air</td>
+    <td>15 air</td>
+    <td>19.9 air</td>
+  </tr>
+  <tr>
+    <td>Tornado cost</td>
+    <td>25</td>
+    <td>30</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Trick air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Shortcut air gain modifier</td>
+    <td colspan="3">-</td>
+  </tr>
+  <tr>
+    <td>Passive fuel drain/sec</td>
+    <td colspan="3">12 air</td>
+  </tr>
+  <tr>
+    <td>Weight modifier</td>
+    <td colspan="3">0.45</td>
+  </tr>
+</tbody></table>
+
+
+## Footage/Tournament footage
