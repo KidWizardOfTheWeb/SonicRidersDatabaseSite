@@ -7,3 +7,7 @@ tags = ["Character", "Speed Type", "Top Speed", "Midweight", "Twist"]
 description = "One with the wind."
 showFullContent = false
 +++
+
+<!-- Change the icon size in metadata here. -->
+<meta property="og:image:width" content="320">
+<meta property="og:image:height" content="450">

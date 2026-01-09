@@ -5,24 +5,29 @@ title = 'Crazy Taxi'
 cover = "/img/gears/crazytaxi.png"
 tags = ["Gear", "Board", "Ring Gear", "Drifting", "Variable Boosting"]
 #keywords = ["", ""]
-description = "Leave that for kc"
+description = "Ring-Hungry Cab of chaos."
 showFullContent = false
 readingTime = false
 hideComments = true
 +++
 
-## for kc
+## High gain, high drain.
 
-Placeholder
-
-Placeholder
+The Crazy is all about maximizing it's ring gain abilities in order to cash out on high speed boosts from Limiter Cut. Armed with a bevy of actions to build these rings, it can become extremely fuel efficient in some cases. However, it's high costs also can affect it, as you'll need to constantly be utilizing these mechanics in order to keep the pace up.
 
 Gear specific details | Special flags
 ----------------------|--------------
 Fuel type             |Rings
-Special flags         |Starts with 50 rings, cannot use pits, Sticky Fingers,
-Mechanics             |no speed loss on wall bonk, Trick Payout, Drift Tips, Limiter Cut, Crazy Stop
+Special flags         |Starts with 50 rings, cannot use pits, Sticky Fingers.
+Mechanics             |No speed loss on wall bonk, Trick Payout, Drift Tips, Limiter Cut, Crazy Stop
 Frames to charge drift dash|60
+
+### Crazy moves
+**Limiter Cut** is a mechanic where, the slower you go, the faster you'll boost. At first glance, it doesn't seem very applicable to the pace of Sonic Riders. However, when you pair this with the next mechanic, you'll be able to execute these flawlessly.
+
+**Crazy Stop** is an enhancement on the brake of this gear. Any time you brake above your cruising speed, you'll immediately be *capped* to your cruising speed. You can use this to confuse opponents in combative situations, or to access Limiter Cut boosts easily.
+
+**Drift Tips** enables ring gain when you drift dash. Normally, The Crazy loses no extra rings while drifting (but still has passive drain!). When you drift dash however, the money starts coming in. The longer you hold your drift after your drift dash is fully charged, the more rings you'll get when you release it (up to 10).
 
 ## Stats
 
