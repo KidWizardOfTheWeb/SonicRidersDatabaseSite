@@ -25,7 +25,7 @@ Usage Restriction     |Only typed characters can use this
 
 ## Stats
 
-Gear stats                | Level 2
+Gear stats                | Lvl 2
 --------------------------|---------|
 Top Speed                 |175      |
 Boost Speed               |240      |

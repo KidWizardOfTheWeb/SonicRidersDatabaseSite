@@ -7,3 +7,14 @@ tags = ["Character", "Speed Type", "Top Speed", "Midweight", "Twist"]
 description = "One with the wind."
 showFullContent = false
 +++
+
+## Details
+
+Character Details         |  
+--------------------------|---------
+Shortcut type (Type Skill)|Speed Type      
+Archetype                 |Top Speed     
+Usage restrictions        |None
+Gear restrictions         |None
+Level 3 attack type       |Twist (65 stun frames)
+Weight                    |1
