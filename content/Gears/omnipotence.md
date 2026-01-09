@@ -13,7 +13,7 @@ hideComments = true
 
 ## Why not have them all
 
-Placeholder.
+Become a true master with Ominpotence! Boasting the ability to take **all** type shortcuts, every stage will completely open up to you. Despite having less than stellar stas, omnipotence gets a bonus from using alternating type shortcuts, some extra speed from dash panels, and the obvious boon of the best routing from each type.  
 
 Gear specific details | Special flags
 ----------------------|--------------
@@ -22,6 +22,11 @@ Special flags         |
 Mechanics             |Type Chaining, +10 dash panel speed
 Frames to charge drift dash|60
 Usage Restriction     |Only typed characters can use this
+
+Because Omnipotence can use every shortcut, it benefits players who have already mastered all types on a track and can expertly weave between each shortcut. You can even follow your opponent into their natural type path for a surprise attack!
+
+### Type Chaining
+Omnipotence's unique ability is called *Type Chaining*. When you land from a rail, a fly hoop, or your power link timer ends while hitting power objects, omnipotence records the previous shortcut types taken by the user and displays it on the exhaust trail. If you take a shortcut different from the previous shortcut taken, the shortcut you are currently taking is buffed in speed. Speed/fly type shortcuts gain +5% speed when buffed, and power type shortcuts gain +5 power object speed when buffed.  
 
 ## Stats
 

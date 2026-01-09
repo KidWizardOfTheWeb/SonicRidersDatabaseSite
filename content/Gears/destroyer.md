@@ -13,9 +13,9 @@ hideComments = true
 
 ## The dual type bike gear
 
-Placeholder
+Break through the compeition with Destroyer! Forgo some top speed and increase your weight in order to gain the power type in addition to your character's base type.
+Picking Destroyer on a character who is already power type will gain extra speed from power type objects.  
 
-Placeholder
 
 Gear specific details | Special flags
 ----------------------|--------------
@@ -24,6 +24,11 @@ Special flags         |
 Mechanics             |Grants power type, Monotype-Exclusive: +8.5% Speed from Power Shortcuts
 Frames to charge drift dash|60
 Usage Restriction     |Only typed characters can use this
+
+
+Destroyer is suited for high boosting, having a higher than normal boost speed, with lower top speed and heavier weight. Use this in conjunction with the air gained from power objects to blow past your competition.  
+
+Pick Destroyer on stages where you want to take advantage of the routes presented by power paths; or to mix up your opponents with high speed and air economy.  
 
 ## Stats
 

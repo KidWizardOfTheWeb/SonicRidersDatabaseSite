@@ -13,9 +13,8 @@ hideComments = true
 
 ## The dual type skate gear
 
-Placeholder
-
-Placeholder
+Style on your opponents with Grinder! Specialize in drifting and rail grinding to gain the speed type in addition to your character's base type.
+Picking Grinder on a character who is already speed type will gain extra speed from speed type rails.  
 
 Gear specific details | Special flags
 ----------------------|--------------
@@ -24,6 +23,10 @@ Special flags         |
 Mechanics             |Grants speed type, Monotype-Exclusive: +8.5% Speed from Speed Shortcuts
 Frames to charge drift dash|50
 Usage Restriction     |Only typed characters can use this
+
+Grinder is suited for drifting, boasting an increased drift speed, cap, and charge, but lower top speed and boost potential. Combine this with the natural high speeds coming off of grind rails to leverage breakneck burst speed and overwhelm your other racers.  
+
+Pick Grinder on stages where you want to combine your normal type shortcuts with speed rails and gain unique routing opportunities; and to keep your rivals on their toes with extreme burst speed and attack potential.  
 
 ## Stats
 

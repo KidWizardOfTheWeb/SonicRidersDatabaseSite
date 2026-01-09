@@ -13,9 +13,8 @@ hideComments = true
 
 ## The dual type board gear
 
-Placeholder
-
-Placeholder
+Even without wings, you can still fly with the Access gear! Trade some stats for the ability to grant your rider fly type in addition to their base type.  
+Picking Access on a character who is already fly type will gain extra speed from fly type shortcuts.  
 
 Gear specific details | Special flags
 ----------------------|--------------
@@ -25,6 +24,9 @@ Mechanics             |Grants fly type, Monotype-Exclusive: +8.5% Speed from Fly
 Frames to charge drift dash|50
 Usage Restriction     |Only typed characters can use this
 
+Access is suited for cruising with higher top speed and acceleration, excelling on stages with long straightaways and giving some extra speed to your flight capabilities.  
+
+Pick Access on stages where you might want some extra flexibility with your routing; or to surprise your opponents by mixing up your position.  
 
 ## Stats
 
