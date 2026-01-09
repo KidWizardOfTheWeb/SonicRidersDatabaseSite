@@ -7,3 +7,14 @@ tags = ["Character", "Power Type", "Combat", "Heavyweight", "Twist"]
 description = "Tougher than leather."
 showFullContent = false
 +++
+
+## Details
+
+Character Details         |  
+--------------------------|---------
+Shortcut type (Type Skill)|Power Type      
+Archetype                 |Combat     
+Usage restrictions        |None
+Gear restrictions         |None
+Level 3 attack type       |Twist (135 stun frames)
+Weight                    |1.4

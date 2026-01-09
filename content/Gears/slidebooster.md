@@ -30,9 +30,9 @@ Archetype support     |Combat has 5 frame boost duration, Boost has +25 boost sp
 <table><thead>
   <tr>
     <th>Gear stats</th>
-    <th>Level 1</th>
-    <th>Level 2</th>
-    <th>Level 3</th>
+    <th>Lvl 1</th>
+    <th>Lvl 2</th>
+    <th>Lvl 3</th>
   </tr></thead>
 <tbody>
   <tr>

@@ -31,7 +31,7 @@ Frames to charge drift dash|60
 
 ## Stats
 
-Gear stats                |Level 1-3
+Gear stats                |Lvl 1-3
 --------------------------|---------|
 Top Speed                 |185      |
 Boost Speed               |240/275/290/300|

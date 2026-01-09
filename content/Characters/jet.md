@@ -11,3 +11,14 @@ showFullContent = false
 <!-- Change the icon size in metadata here. -->
 <meta property="og:image:width" content="320">
 <meta property="og:image:height" content="450">
+
+## Details
+
+Character Details         |  
+--------------------------|---------
+Shortcut type (Type Skill)|Speed Type      
+Archetype                 |Top Speed     
+Usage restrictions        |None
+Gear restrictions         |None
+Level 3 attack type       |Twist (65 stun frames)
+Weight                    |1

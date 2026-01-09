@@ -17,16 +17,15 @@ Archetype                 |Late Booster
 Usage restrictions        |None
 Gear restrictions         |None
 Level 3 attack type       |Trample (25 stun frames)
-Weight                    |1.1
 
 ## Stats
 
 <table><thead>
   <tr>
     <th>Character stats</th>
-    <th>Level 1</th>
-    <th>Level 2</th>
-    <th>Level 3</th>
+    <th>Lvl 1</th>
+    <th>Lvl 2</th>
+    <th>Lvl 3</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -64,6 +63,14 @@ Weight                    |1.1
     <td>Basic</td>
     <td>AoE Spinout</td>
     <td>Trample<br>(25 stun frames)</td>
+  </tr>
+  <tr>
+    <td>Attack range</td>
+    <td colspan="3">3</td>
+  </tr>
+  <tr>
+    <td>Weight value</td>
+    <td colspan="3">1.1</td>
   </tr>
 </tbody>
 </table>

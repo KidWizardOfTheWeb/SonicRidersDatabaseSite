@@ -3,7 +3,7 @@
 draft = false
 title = 'Super Shadow'
 cover = "/img/gears/supershadow.png"
-tags = ["Gear", "Super", "Ring Gear", "High Boosting", "Cruising"]
+tags = ["Gear", "Super", "Ring Gear", "Variable Boosting", "Cruising"]
 #keywords = ["", ""]
 description = "Chaos Control."
 showFullContent = false

@@ -25,9 +25,9 @@ Archetype Support     |Drift archetypes get an extra -5% drift cost modifier
 <table><thead>
   <tr>
     <th>Gear stats</th>
-    <th>Level 1</th>
-    <th>Level 2</th>
-    <th>Level 3</th>
+    <th>Lvl 1</th>
+    <th>Lvl 2</th>
+    <th>Lvl 3</th>
   </tr></thead>
 <tbody>
   <tr>

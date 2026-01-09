@@ -29,16 +29,11 @@ Frames to charge drift dash|50
 <table><thead>
   <tr>
     <th>Gear stats</th>
-    <th>Level 1</th>
-    <th>Level 2</th>
-    <th>Level 3</th>
+    <th>Lvl 1</th>
+    <th>Lvl 2</th>
+    <th>Lvl 3</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td>Gear stats</td>
-    <td>Level 1</td>
-    <td>Level 2</td>
-    <td>Level 3</td>
   </tr>
   <tr>
     <td>Top Speed</td>
