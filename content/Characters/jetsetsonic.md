@@ -16,7 +16,6 @@ Shortcut type (Type Skill)|Speed Type
 Archetype                 |Late Booster      
 Usage restrictions        |EX-load of Sonic
 Gear restrictions         |None
-Level 3 attack type       |Trample (25 stun frames)
 
 ## Stats
 

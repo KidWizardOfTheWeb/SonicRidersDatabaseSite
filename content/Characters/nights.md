@@ -1,10 +1,10 @@
 +++
-#date = '2026-01-08T17:37:37-05:00'
+#date = '2026-01-08T17:45:25-05:00'
 draft = false
-title = 'E-10000R'
-cover = "/img/chr/e10r.png"
-tags = ["Character", "Gameplay EX-Load", "Power Type", "Drift", "Heavyweight", "Daze"]
-description = "Target acquired."
+title = 'Nights'
+cover = "/img/chr/nights.png"
+tags = ["Character", "Fly Type", "Top Speed", "Lightweight", "Daze"]
+description = "Dreams come true."
 showFullContent = false
 +++
 
@@ -12,9 +12,9 @@ showFullContent = false
 
 Character Details         |  
 --------------------------|---------
-Shortcut type (Type Skill)|Power Type      
-Archetype                 |Drift      
-Usage restrictions        |EX-Load of E-10000G
+Shortcut type (Type Skill)|Fly Type      
+Archetype                 |Top Speed     
+Usage restrictions        |None
 Gear restrictions         |None
 
 ## Stats
@@ -29,27 +29,25 @@ Gear restrictions         |None
 <tbody>
   <tr>
     <td>Top speed bonus</td>
-    <td colspan="3">-4</td>
+    <td colspan="3">+3</td>
   </tr>
   <tr>
     <td>Acceleration bonus</td>
-    <td colspan="3">None</td>
+    <td>+15%</td>
+    <td>+25%</td>
+    <td>+35%</td>
   </tr>
   <tr>
     <td>Deceleration bonus</td>
-    <td colspan="3">None</td>
+    <td colspan="3">-1%</td>
   </tr>
   <tr>
     <td>Drift bonus</td>
-    <td colspan="3">+20</td>
-  </tr>
-  <tr>
-    <td>Drift cost reduction</td>
-    <td colspan="3">-10%</td>
+    <td colspan="3">None</td>
   </tr>
   <tr>
     <td>Boost duration bonus</td>
-    <td colspan="3">None</td>
+    <td colspan="3">+30</td>
   </tr>
   <tr>
     <td>Boost speed bonus</td>
@@ -71,6 +69,7 @@ Gear restrictions         |None
   </tr>
   <tr>
     <td>Weight value</td>
-    <td colspan="3">1.35</td>
+    <td colspan="3">0.85</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
