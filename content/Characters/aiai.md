@@ -4,7 +4,7 @@ draft = false
 title = 'AiAi'
 cover = "/img/chr/aiai.png"
 tags = ["Character", "Power Type", "Late Booster", "Midweight", "AoE", "Trample"]
-description = "Ride that banana."
+description = "The super monkey."
 showFullContent = false
 +++
 
@@ -16,7 +16,6 @@ Shortcut type (Type Skill)|Power Type
 Archetype                 |Late Booster      
 Usage restrictions        |None
 Gear restrictions         |None
-Level 3 attack type       |Trample (25 stun frames)
 
 ## Stats
 

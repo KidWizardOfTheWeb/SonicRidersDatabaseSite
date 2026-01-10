@@ -16,7 +16,6 @@ Shortcut type (Type Skill)|Fly Type
 Archetype                 |Late Booster      
 Usage restrictions        |None
 Gear restrictions         |None
-Level 3 attack type       |Shock (60 stun frames)
 
 ## Stats
 
