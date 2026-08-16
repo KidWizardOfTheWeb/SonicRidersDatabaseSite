@@ -13,9 +13,20 @@ hideComments = true
 
 ## The collector's gear
 
-Placeholder
+Reminiscent of F1 racing, Super Hang-On boasts a unique way to race. It doesn"t gain air from tricks or type shortcuts, having to solely rely on air gained from leveling up and utilizing pit stops. To counteract this Super Hang-On has a bigger air tank and lower air cost overall.
 
-Placeholder
+## Level 4
+
+Super Hang-On has 4 levels, the first 3 being standard level ups with level 4 being unique. After collecting 90 rings you will reach Level 4, Super Hang-On will receive an air refill and all item boxes will only give you speedshoes. Although Super Hang-On receives these buffs, it will now drain as much air as a standard gear.
+
+## Pit specifics
+
+Super Hang-On gains 3x air when using an air pit.
+Super Hang-On exits pits at 250 speed. Manually exiting a pit has the same effect.
+
+## How it excels
+
+Despite Super Hang-On"s volatile nature on paper, it"s playstyle and how it"s utilized is more dependent on the player than the gear; but let"s go over some of the more niche details. Super Hang-On"s has an above average boost at all levels, making it one of the hardest gears to both outrun and outpace and underneath the surface it hides some interesting caveats such as: increased turning, lower jump charge time and immune to leveling down. A recipe for planning and disaster. 
 
 Gear specific details | Special flags
 ----------------------|--------------

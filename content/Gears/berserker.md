@@ -13,9 +13,22 @@ hideComments = true
 
 ## Its a fighting game
 
-Placeholder
+No seriously, treat it like a fighting game. Berserker is infamous for its ability to turn an entire game on its head by landing a hit or two. Berserker's stats are slightly below average but to accomodate for that, its attacks have more range at level 3 and each hit makes you more powerful.
 
-Placeholder
+Berserket has above average handling.
+
+## Berserker Effect
+
+When cruising you will always be in attack state, meaning simply running into another player will attack them. This applies even while charging your jump. 
+
+Berserker Effect is NOT active when falling below 120 speed.
+
+## Power Dance
+
+By landing an attack, Berserker will gain a buff signified by an aura for each level (White>Yellow>Red).
+Each stack will give you +1 Boost Speed, +3 Top Speed, and -5% Boost Cost reduction.
+
+Getting hit by an attack will cause you to lose all of your buffs.
 
 Gear specific details | Special flags
 ----------------------|--------------
