@@ -15,7 +15,7 @@ hideComments = true
 
 No seriously, treat it like a fighting game. Berserker is infamous for its ability to turn an entire game on its head by landing a hit or two. Berserker's stats are slightly below average but to accomodate for that, its attacks have more range at level 3 and each hit makes you more powerful.
 
-Berserket has above average handling.
+Berserker has above average handling.
 
 ## Berserker Effect
 

@@ -26,7 +26,7 @@ Super Hang-On exits pits at 250 speed. Manually exiting a pit has the same effec
 
 ## How it excels
 
-Despite Super Hang-On"s volatile nature on paper, it"s playstyle and how it"s utilized is more dependent on the player than the gear; but let"s go over some of the more niche details. Super Hang-On"s has an above average boost at all levels, making it one of the hardest gears to both outrun and outpace and underneath the surface it hides some interesting caveats such as: increased turning, lower jump charge time and immune to leveling down. A recipe for planning and disaster. 
+Despite Super Hang-On's volatile nature on paper, it"s playstyle and how it"s utilized is more dependent on the player than the gear; but let's go over some of the more niche details. Super Hang-On's has an above average boost at all levels, making it one of the hardest gears to both outrun and outpace and underneath the surface it hides some interesting caveats such as: increased turning, lower jump charge time and immune to leveling down. A recipe for planning and disaster. 
 
 Gear specific details | Special flags
 ----------------------|--------------

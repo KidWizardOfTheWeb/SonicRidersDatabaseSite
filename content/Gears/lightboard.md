@@ -13,9 +13,13 @@ hideComments = true
 
 ## Cruise at your heart's content
 
-Placeholder
+If playing this game was too much of a chore, why not play less? Light Board takes that to the next level, by using Cruise Control it gets more for less, letting you maintain high speeds all at the click of a button and some nice turns
 
-Placeholder
+## Cruise Control
+
+Light Board's signature ability. After boosting, you will continue to cruise at your BOOST speed. Bumping into a wall will cause you to lose this effect. 
+
+Running into a wall while Cruise Control is active will both end your current boost and set you back to the gear's normal top speed.
 
 Gear specific details | Special flags
 ----------------------|--------------

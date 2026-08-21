@@ -13,9 +13,13 @@ hideComments = true
 
 ## Unmatched drifting capability
 
-Placeholder
+Carpal tunnel's best friend. Slide Booster has a simple but rather sadistic gimmick, turning the track into its own hazard. Having a near-instant drift dash, an incredibly powerful boost, and an unavoidable turbulence to boot Slide Booster becomes one of the most difficult gears to outrun.
 
-Placeholder
+Slide Booster has a 1-frame boost. Depending on your character's archetype, it has different effects.
+
+## Air Lock
+
+If a player makes contact with Slide Booster's turbulence, they will be forced to interact with it. They must spend air to exit its turbulence. Clutch does NOT prevent this from happening. 
 
 Gear specific details | Special flags
 ----------------------|--------------

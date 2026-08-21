@@ -13,6 +13,14 @@ hideComments = true
 
 ## Slide to the finish line
 
+Power Gear has both a gimmick and playstyle that challenges veterans and newbies alike. Unlike most gears that are able to drift dash, Power Gear cannot; to make up for that it gains speed while drifting and it can extend its boost by holding the B button.
+
+## Boost Control
+
+By holding the B button, you can extend your boost (So long as you have the air for it).
+
+Boost characters can extend their boost even while performing tricks.
+
 Gear specific details | Special flags
 ----------------------|--------------
 Fuel type             |Air
