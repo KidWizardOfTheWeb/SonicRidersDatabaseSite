@@ -10,6 +10,18 @@ showFullContent = false
 
 ## Details
 
+Guardian of the Master Emerald and last of his kind, Knuckles knows how to bring the pain on and off the track!
+
+Knuckles is a Combat Archetype character meaning at Levels 1 & 2 he gains +70 additional frame of boost, a 3% increase to his **BCM**, Increased hitstun for his Level 3 attack, and +1 range at Level 3.
+
+His playstyle consists of high bursts of speed to deliver punishing blows to your opponent!
+
+Knuckles benefits most from gears that have an increase in BCM on their own or high boosting gears.
+
+Gears recommended: Accelerator, Berserker, Blue Star  II, Heavy Bike, Advantage-F, Hang-On.
+
+
+
 Character Details         |  
 --------------------------|---------
 Shortcut type (Type Skill)|Power Type      

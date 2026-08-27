@@ -13,9 +13,19 @@ hideComments = true
 
 ## The first level 4 gear in history
 
-Placeholder
+At first glance, Turbo Star looks like an average gear with subpar stats. But where it really shines is at its additional level.
 
-Placeholder
+### Level 4
+
+After collecting 90 rings, Turbo Star gains access to **Level 4**, At this level it gains an additional +15 boost speed making it a late game monster on the track.
+
+Due to having rather poor stats at its first 3 levels, Turbo Star's playstyle consist of keeping a small distance between its opponent and collecting rings in the back until its time to blast through them at Level 4.
+
+Turbo Star's simple design allows it to be played almost anywhere, but its truly effective on stages that boast a large amount of rings!
+
+
+
+
 
 Gear specific details | Special flags
 ----------------------|--------------
