@@ -11,9 +11,9 @@ readingTime = false
 hideComments = true
 +++
 
-## Gotta hit that trick combo
+## Style, Skill & Speed
 
-Placeholder.
+Master the air and turn tricks into speed. This gear has the **Legend** effect, meaning your jump reaches maximum charge without needing to hold the jump button. You can still manually charge to get more trick speed, resulting in more and faster trick combos. Each trick performed adds an significant amount of landing speed.
 
 Gear specific details | Special flags
 ----------------------|--------------
@@ -22,6 +22,9 @@ Special flags         |Legend effect
 Mechanics             |Motor drive, -25% fastfall cost
 Frames to charge drift dash|60
 
+While this gear seems easy to pick up, it does have a high skill ceiling. Legend rewards players who can master advanced trick techniques such as **Trickspam** and **L-Canceling**.
+
+Legend is strongest on stages with lots of ramps and opportunities to stay airborne. It especially shines on stages where you can consistently chain tricks and use fast fall to control your landing.
 ## Stats
 
 <table><thead>
@@ -106,3 +109,7 @@ Frames to charge drift dash|60
 
 
 ## Footage/Tournament footage
+{{< video
+src="mp4/Legend.mp4"
+width="800"
+>}}

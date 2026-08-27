@@ -13,9 +13,7 @@ hideComments = true
 
 ## Fill that tank up
 
-Placeholder
-
-Placeholder
+Air Tank is a gear built around having a large amount of air and managing your fuel efficiently. This gear also has a unique mechanic called **Air Crisis**, where its stats change depending on how much air you have.
 
 Gear specific details | Special flags
 ----------------------|--------------
@@ -23,6 +21,12 @@ Fuel type             |Air
 Special flags         |
 Mechanics             |Air Crisis
 Frames to charge drift dash|45-60
+
+**High Air**= more acceleration, more BCM (up to +3%), less drift dash charge frames (down to 45).
+
+**Low Air**= more top speed (up to +30), more drift cap (up to +10), less decel (up to -2%)
+
+Air Tank gives offers a flexible playstyle, but rewards players who manages air efficiently to come out on top. Because of this gear's flexiblity, it can be used on almost any stage, but it excels on stages with steep downhills by using it's weight to your advantage. 
 
 ## Stats
 

@@ -9,6 +9,9 @@ showFullContent = false
 +++
 
 ## Details
+Metal Sonic is a Speed Type + Boost Archetype character. The Boost Archetype gives him **Boost Retention**, meaning your boost duration isn't canceled by actions like charging, jumping, tricking, taking shortcuts, or falling. It also gives him stronger acceleration while boosting.
+
+His playstyle is fast and momentum-focused, great for those who want to stay on the gas and maximize boost chains. Also rewards players who master techniques such as **DPC**, **JCBC**, and **Bonk-Dashing**. 
 
 Character Details         |  
 --------------------------|---------
