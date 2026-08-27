@@ -37,3 +37,4 @@ GitHub: https://github.com/KidWizardOfTheWeb
 - **SilentEye** - Contributor
 - **Metal Shane** - Contributor
 - **SnowieF0XX** - Contributor
+- **alexbtruths** - Contributor
