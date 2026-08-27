@@ -13,7 +13,19 @@ hideComments = true
 
 ## Precise turning
 
-Placeholder.
+Cannonball boast the highest turning radius of any gear practically removing the need to drift entirely and  allowing it to make even the sharpest with extreme ease all while losing no speed.
+
+Cannonball does have some downsides however, while the increased turning is nice, it does take some getting used and requires a bit of practice to make the most of it.
+These skates also suffer from having an extremely low top speed making cruising on them terribly slow.
+
+Don't let these deter you from picking them up! In the proper hands, these skates can pull of the tightest of turns.
+
+## Cannonball Showcase
+{{< video
+  src="/mp4/cannonball.mp4"
+  width="700"
+>}}
+
 
 Gear specific details | Special flags
 ----------------------|--------------
