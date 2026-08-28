@@ -1,7 +1,7 @@
 +++
 #date = '2026-01-08T15:23:44-05:00'
 draft = false
-title = 'Wave the Swallow'
+title = 'Wave the Shallow'
 cover = "/img/chr/wave.png"
 tags = ["Character", "Fly Type", "Late Booster", "Lightweight", "Shock"]
 description = "Extreme Gear extraordinaire."
